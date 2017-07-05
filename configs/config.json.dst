@@ -1,0 +1,6 @@
+{
+  "server": "server@domain.ca",
+  "user": "username",
+  "remote_path": "path/to/dir/to/download",
+  "host_path": "path/to/upload/directory"
+}
